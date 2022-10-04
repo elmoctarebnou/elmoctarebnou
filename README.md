@@ -1,5 +1,4 @@
 <div align="left">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100px" height="80px">
   <img src="https://readme-typing-svg.demolab.com?       font=Source+Code+Pro&size=30&duration=3000&pause=500&color=000000&width=435&lines=Hi%2C+I'm+El%2C+aka...;El+Moctar+Ebnou.">
 </div>
 
