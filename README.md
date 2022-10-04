@@ -26,7 +26,7 @@
 
 <h2>My Stats</h2>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://github.com/elmoctarebnou">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=elmoctarebnou&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=elmoctarebnou&theme=gruvbox&hide_border=true" />
   </a>
