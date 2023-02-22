@@ -26,8 +26,7 @@
 <h2>My Stats</h2>
 <p align="left">
   <a href="https://github.com/elmoctarebnou">
-    <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=elmoctarebnou&theme=gruvbox&hide_border=true" />
-    <img width="52.5%" src="https://activity-graph.herokuapp.com/graph?username=elmoctarebnou&custom_title=El's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545&area=true" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=elmoctarebnou&theme=gruvbox&hide_border=true" />
   </a>
 </p>
  
