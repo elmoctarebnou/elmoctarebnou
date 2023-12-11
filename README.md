@@ -23,12 +23,6 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<h2>My Stats</h2>
-<p align="left">
-  <a href="https://github.com/elmoctarebnou">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=elmoctarebnou&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
  
 <!-- 
 <a href="https://github.com/elmoctarebnou"><img alt="El Moctar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elmoctarebnou&custom_title=El's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545&area=true" /></a>
