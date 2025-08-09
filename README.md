@@ -1,7 +1,3 @@
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?       font=Source+Code+Pro&size=30&duration=3000&pause=500&color=000000&width=435&lines=Hi%2C+I'm+El%2C+aka...;El+Moctar+Ebnou.">
-</div>
-
 <h2>Languages and Tools</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
