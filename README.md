@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1200&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+El+Moctar+Ebnou;Full-stack+Software+Engineer;AWS+%7C+MSK+(Apache+Kafka)+%7C+Distributed+Systems" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1200&vCenter=true&width=700&lines=Hi%2C+I'm+El+Moctar+Ebnou;Full-stack+Software+Engineer;AWS+%7C+MSK+(Apache+Kafka)+%7C+Distributed+Systems" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -23,13 +23,9 @@
   </a>
 </p>
 
----
-
 ### 👋 About
 I’m **El Moctar Ebnou**, a full-stack engineer focused on building scalable, reliable systems.  
 Currently at **AWS** on the **Amazon MSK (Apache Kafka)** team, working on distributed data streaming solutions.
-
----
 
 ### 🧰 Skills
 <p>
