@@ -1,26 +1,82 @@
-<h2>Languages and Tools</h2>
+<!-- Profile README for @elmoctarebnou -->
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<!-- Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1200&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+El+Moctar+Ebnou;Full-stack+Software+Engineer;AWS+%7C+MSK+(Apache+Kafka)+%7C+Distributed+Systems" alt="Typing intro" />
+</p>
 
- 
-<!-- 
-<a href="https://github.com/elmoctarebnou"><img alt="El Moctar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elmoctarebnou&custom_title=El's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545&area=true" /></a>
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=elmoctarebnou&show_icons=true&theme=gruvbox&hide_border=true" />
--->
+<p align="center">
+  <a href="https://github.com/elmoctarebnou">
+    <img src="https://img.shields.io/badge/GitHub-@elmoctarebnou-181717?logo=github" alt="GitHub badge">
+  </a>
+  <!-- TODO: replace with your LinkedIn URL -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-El%20Moctar%20Ebnou-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn badge">
+  </a>
+  <!-- TODO: replace with your site/portfolio domain if you want -->
+  <a href="https://YOUR-DOMAIN">
+    <img src="https://img.shields.io/badge/Website-Portfolio-111827?logo=vercel" alt="Website badge">
+  </a>
+  <!-- TODO: replace with your email (or remove) -->
+  <a href="mailto:YOUR.EMAIL@EXAMPLE.COM">
+    <img src="https://img.shields.io/badge/Contact-Email-EB5424?logo=gmail&logoColor=white" alt="Email badge">
+  </a>
+</p>
+
+---
+
+### 👋 About
+I’m **El Moctar Ebnou**, a full-stack engineer focused on building scalable, reliable systems.  
+Currently at **AWS** on the **Amazon MSK (Apache Kafka)** team, working on distributed data streaming solutions.
+
+---
+
+### 🧰 Skills
+<p>
+  <!-- Languages -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6">
+  <img alt="Python" src="https://img.shields.io/badge/Python-000?logo=python">
+  <img alt="Java" src="https://img.shields.io/badge/Java-000?logo=openjdk">
+
+  <!-- Web / Mobile -->
+  <img alt="React" src="https://img.shields.io/badge/React-000?logo=react">
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-000?logo=react">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000?logo=node.js">
+  <img alt="Express" src="https://img.shields.io/badge/Express-000?logo=express">
+
+  <!-- Backends / Frameworks -->
+  <img alt="Django" src="https://img.shields.io/badge/Django-000?logo=django">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-000?logo=springboot">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000?logo=rust">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000?logo=chainlink&logoColor=white">
+
+  <!-- Databases / Infra -->
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000?logo=postgresql">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000?logo=mongodb">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-000?logo=redis">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?logo=firebase">
+
+  <!-- Platform / DevOps -->
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-000?logo=amazon-aws">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-000?logo=terraform">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-000?logo=docker">
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-000?logo=nginx">
+
+  <!-- Streaming / Data -->
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka">
+  <img alt="Apache Flink" src="https://img.shields.io/badge/Apache%20Flink-000?logo=apacheflink">
+
+  <!-- Tooling -->
+  <img alt="Git" src="https://img.shields.io/badge/Git-000?logo=git">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-000?logo=linux">
+  <img alt="Shell" src="https://img.shields.io/badge/Shell%20Scripting-000?logo=gnubash">
+</p>
+
+
+### 📬 Contact
+- **Name:** El Moctar Ebnou  
+- **LinkedIn:** <!-- TODO: add your LinkedIn URL --> [El Moctar Ebnou]()
+
+> Prefer a quick note? Open an issue on this repo or DM me on LinkedIn.
+
