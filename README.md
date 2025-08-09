@@ -10,15 +10,15 @@
     <img src="https://img.shields.io/badge/GitHub-@elmoctarebnou-181717?logo=github" alt="GitHub badge">
   </a>
   <!-- TODO: replace with your LinkedIn URL -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/elmoctarebnou">
     <img src="https://img.shields.io/badge/LinkedIn-El%20Moctar%20Ebnou-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn badge">
   </a>
   <!-- TODO: replace with your site/portfolio domain if you want -->
-  <a href="https://YOUR-DOMAIN">
+  <a href="https://elmoctarebnou.com/">
     <img src="https://img.shields.io/badge/Website-Portfolio-111827?logo=vercel" alt="Website badge">
   </a>
   <!-- TODO: replace with your email (or remove) -->
-  <a href="mailto:YOUR.EMAIL@EXAMPLE.COM">
+  <a href="mailto:elmoctarebnou@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-EB5424?logo=gmail&logoColor=white" alt="Email badge">
   </a>
 </p>
@@ -73,10 +73,4 @@ Currently at **AWS** on the **Amazon MSK (Apache Kafka)** team, working on distr
   <img alt="Shell" src="https://img.shields.io/badge/Shell%20Scripting-000?logo=gnubash">
 </p>
 
-
-### 📬 Contact
-- **Name:** El Moctar Ebnou  
-- **LinkedIn:** <!-- TODO: add your LinkedIn URL --> [El Moctar Ebnou]()
-
-> Prefer a quick note? Open an issue on this repo or DM me on LinkedIn.
 
