@@ -21,7 +21,7 @@
 
 ### 👋 About
 I’m **El Moctar Ebnou**, a full-stack engineer focused on building scalable, reliable systems.  
-Currently at **AWS** on the **Amazon MSK (Apache Kafka)** team, working on distributed data streaming solutions.
+Currently at **AWS** on the **MSK (Apache Kafka)** team, working on distributed data streaming solutions.
 
 ### 🧰 Skills
 <p>
