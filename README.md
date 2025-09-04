@@ -2,10 +2,6 @@
 
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1200&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+El+Moctar+Ebnou;Full-stack+Software+Engineer;AWS+%7C+MSK+(Apache+Kafka)+%7C+Distributed+Systems" alt="Typing intro" />
-</p>
-
-<p align="center">
   <a href="https://github.com/elmoctarebnou">
     <img src="https://img.shields.io/badge/GitHub-@elmoctarebnou-181717?logo=github" alt="GitHub badge">
   </a>
